@@ -1,0 +1,196 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.4"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ],
+  "author": "你滴盐我滴醋",
+  "description": "注意：\n内存分配建议4-8G\n资源包里是汉化，可以选择\nmods文件夹中的c2me可选，帧率或许会提高，但有兼容性问题\n\n",
+  "fileApi": "",
+  "files": [
+    {
+      "hash": "291f1b55876161c6af568770414cee7bfe401547",
+      "path": "mods/[1.21.4] Fabric API 0.115.1+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "63a1a3b25c642f5a745dfcc9bdc0841660f560af",
+      "path": "mods/[Cloth Config API] cloth-config-17.0.144-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "99810a3d86fe30dc0828b7d0aaf2bee592ca6642",
+      "path": "mods/[Cupboard] cupboard-fabric-1.21-2.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "261b0e79ffbb79f9b708827333bd745620ebbec0",
+      "path": "mods/[Enhanced Block Entities] enhancedblockentities-0.11.3+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ee08ca5fd2a7a02dbade048745533b5570a826f0",
+      "path": "mods/[FerriteCore] ferritecore-7.1.1-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f2000c308c0f5f0267aaec517191a531bb86498e",
+      "path": "mods/[FPS Overlay] fpsoverlay-1.7-1.21.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ad5b284586f7ee1b53524d6f690d447aaaae5bec",
+      "path": "mods/[ImmediatelyFast] ImmediatelyFast-Fabric-1.3.4+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2f41a836351d5ae37b9cd6c96227e1dcaa30e6c5",
+      "path": "mods/[Lithium] lithium-fabric-0.14.7+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "12b2d8776ac16edbdc10ce0e5a0d4daa8ac22560",
+      "path": "mods/[MidnightLib] midnightlib-fabric-1.6.7+1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3f4d67c87d0a6e8c323f443635013bfd58b8872d",
+      "path": "mods/[Model Gap Fix] modelfix-1.21.3-1.10-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e2556b23a0198e9df5f4d3aae4d002cd457985c0",
+      "path": "mods/[More Culling] moreculling-fabric-1.21.4-1.2.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4adbf542d5dd586fe8a458202bfeebd757dfd2f6",
+      "path": "mods/[Noisium] noisium-fabric-2.5.0+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "eb8c871d57e786b65ba4c462cd34940700e4d3a9",
+      "path": "mods/[ScalableLux] ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "841b1ef57880fc0f94a22ab268b737c3830b5595",
+      "path": "mods/[Text Placeholder API] placeholder-api-2.5.2+1.21.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "cc03a748b46ea549335010ce0954c3eb47e5650a",
+      "path": "mods/[可选，可能会有兼容性问题]c2me-fabric-mc1.21.4-0.3.1.1.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1962f8f7f4264cba46a579e0580366736abe3e9a",
+      "path": "mods/cullleaves-fabric-4.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a8b87f259682580d558f793ed99be44d55f06c0f",
+      "path": "mods/entityculling-fabric-1.7.2-mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "41d979ea73de8cd42383eb461d45f2a434573c4b",
+      "path": "mods/fabric-carpet-1.21.4-1.4.161+v241203.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "416bca48280bbbb824e595d12fc694cc7488cfc4",
+      "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "82635dac8fa345af97603a1daa4fa6dc004d8a3b",
+      "path": "mods/modernfix-fabric-5.20.2+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0ddb327640b1b766155e489852378950ef16da8d",
+      "path": "mods/modmenu-13.0.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c3bd0d2121653fec3c0f82a841d88e85e87f9796",
+      "path": "mods/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "772956d8cc9ebec66a5001dccf66d8d1af3c3465",
+      "path": "mods/sodium-fabric-0.6.6+mc1.21.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a738aaeb711278b763599bf8d09ff2ed87d763ae",
+      "path": "mods/I18nUpdateMod-3.6.0-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e04f1044d64a224e919f2cbfb134b18edc3fca2f",
+      "path": "options.txt",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3add30bf9e1cafc02f3467e50e4413e5d25c80c4",
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "forceUpdate": false,
+  "launchInfo": {
+    "javaArgument": [],
+    "launchArgument": [],
+    "minMemory": 4071
+  },
+  "libraries": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "SO-FA-NEXT-1.21.4",
+  "origin": [],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "url": "https://github.com/Uniaball/Super-Optimization/tree/SuperOptimization-Fabric-Next",
+  "version": "1.1"
+}
