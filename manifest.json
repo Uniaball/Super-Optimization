@@ -1,0 +1,18 @@
+{
+  "author": "你滴盐我滴醋",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.3.27",
+        "primary": true
+      }
+    ]
+  },
+  "name": "SO-FO-NEXT-v1.0BETA",
+  "overrides": "overrides",
+  "version": "1.0B"
+}
