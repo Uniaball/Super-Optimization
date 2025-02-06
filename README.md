@@ -1,14 +1,14 @@
-# About Super-Optimization-Neoforge
+# About Super-Optimization-Neoforge-Next
 A modpack for Minecraft:java 1.21.1 Neoforge       
 Main idea：    
-To optimize games and increase the FPS of games on mobile devices for Neoforge
-# Original author
+TO greatly improved FPS    
+# author
 The QQ nickname of original author:    
-"【℡ 零碎的记忆】         
+你滴盐我滴醋           
 QQ number:    
-1054687116   
+2551733616   
 Bilibili nickname:    
-moyinQAQ    
+Uniaball    
 If you want to know more about our modpack,you can join our QQ chat group:    979440529
 # Other link
 If you think downloading the modpack is too slow on Github,you can click the following links:    
