@@ -10,7 +10,7 @@ QQ number:
 Bilibili nickname:    
 Uniaball    
 If you want to know more about our modpack,you can join our QQ chat group:    979440529
-# Other link
+# Other link（old）
 If you think downloading the modpack is too slow on Github,you can click the following links:    
 https://pan.huang1111.cn/s/Lx21mu6    
 https://wwbl.lanzout.com/b00uyt5gab
